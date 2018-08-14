@@ -40,3 +40,21 @@
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: none;}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    
+    display: block;
+    margin:auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 55%;
+}
+
+.img-fluid{
+    margin: auto;
+}
