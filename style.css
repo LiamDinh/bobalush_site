@@ -55,6 +55,12 @@
     width: 55%;
 }
 
+div.mobileStack {
+    width: 50%;
+    display: block;
+}
+
+
 .img-fluid{
     margin: auto;
 }
@@ -62,3 +68,27 @@
 .size {
     width: 30%;
 }
+
+footer.footsy {
+    background-color: #666;
+    padding-left: 10%;
+}
+
+footer.footsy h1 {
+    color: #fff;
+    font-size: 30px;
+}
+
+footer.footsy ul {
+    list-style: none; /*removing the bullet points*/
+    text-align: left;
+    padding-left: 0;
+    
+}
+
+footer.footsy ul li {
+    font-size: 22px;
+    color: #fff;
+    line-height: 1.5;
+}
+
